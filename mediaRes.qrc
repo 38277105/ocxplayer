@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/icon7.png</file>
+        <file>img/icon7_on.png</file>
+        <file>img/faster2.png</file>
+        <file>img/faster2_on.png</file>
+        <file>img/slower2.png</file>
+        <file>img/slower2_on.png</file>
+        <file>img/icon6.png</file>
+        <file>img/icon6_on.png</file>
+        <file>img/icon8.png</file>
+        <file>img/icon8_1.png</file>
+        <file>img/icon8_1_on.png</file>
+        <file>img/icon8_2.png</file>
+        <file>img/icon8_2_on.png</file>
+        <file>img/icon8_on.png</file>
+        <file>img/icon10.png</file>
+        <file>img/icon10_on.png</file>
+        <file>img/icon12.png</file>
+        <file>img/icon12_on.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>control.ui</file>
+    </qresource>
+</RCC>
